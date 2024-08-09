@@ -1,0 +1,70 @@
+[
+    [
+        "4x^2 + 5x + 1 = 0",
+        "The function represents a quadratic equation of type ax^2 + bx + c = 0"
+    ],
+    [
+        "2x^2 + 3x + 6 = 0",
+        "This is a quadratic equation in the form of ax^2 + bx + c = 0"
+    ],
+    [
+        "x^2 + 7x -10 = 0",
+        "The given equation is a quadratic equation of type ax^2 + bx + c = 0"
+    ],
+    [
+        "x^2 + 6x - 14 = 0",
+        "This function represents a quadratic equation of type ax^2 + bx + c = 0"
+    ],
+    [
+        "(x - 2)(x - 6) = 0",
+        "TThis is a quadratic equation in factored form"
+    ],
+    [
+        "(x + 1)(x + 5) = 0",
+        "This function represents quadratic equation in factored form"
+    ],
+    [
+        "(2x + 3)(x - 2) = 0",
+        "The given equation is a case of quadratic equation in factored form"
+    ],
+    [
+        "2x^2 + 10x = 0",
+        "This equation represents a case of quadratic equation with no 'c'"
+    ],
+    [
+        "5x^2 + x = 0",
+        "This equation represents a case of quadratic equation with no 'c'"
+    ],
+    [
+        "7x^2 + 10x = 0",
+        "This is a quadratic equation of type ax^2 + bx = 0"
+    ],
+    [
+        "3x^2 - 10 = 0",
+        "This is quadratic equation with no linear coefficient: ax^2 + c = 0."
+    ],
+    [
+        "2x^2 - 1 = 0",
+        "The given function is a quadratic equation with no linear coefficient"
+    ],
+    [
+        "5x^2 - 6 = 0",
+        "This is a quadratic equation without the linear term: ax^2 + c = 0"
+    ],
+    [
+        "2x^3 + 3x^2 -5x + 10 = 0",
+        "This is a cubic equation of type 'ax^3 + bx^2 + cx + d = 0'"
+    ],
+    [
+        "x^3 + 5x^2 - 7x + 11 = 0",
+        "The given equation is a cubic equation in the form of 'ax^3 + bx^2 + cx + d = 0'"
+    ],
+    [
+        "3x^3 + 4x^2 + 6x - 15 = 0",
+        "The given equation is a cubic equation in the form of 'ax^3 + bx^2 + cx + d = 0'"
+    ],
+    [
+        "-x^3 + 2x^2 - x + 3 =0",
+        "The given equation is a cubic equation in the form of 'ax^3 + bx^2 + cx + d = 0'"
+    ]
+]

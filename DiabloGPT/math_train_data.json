@@ -1,0 +1,346 @@
+[   
+    [
+        "x^2 - 3x + 4 = 0",
+        "This is a quadratic equation in the form of ax^2 + bx + c = 0"
+    ],
+    [
+        "x^2 + 5x - 10 = 0",
+        "The given function is a quadratic function of type ax^2 + bx + c = 0"
+    ],
+    [
+        "x^2 - 2x + 3 = 0",
+        "This is a quadratic function of type ax^2 + bx + c = 0"
+    ],
+    [
+        "x^2 - 5x + 6 = 0",
+        "The given expression is a quadratic function, ax^2 + bx + c = 0, where 'a,' 'b,' and 'c' are constants, and 'x' is the variable"
+    ],
+    [
+        "x^ - 10x + 20 = 0",
+        "This is a quadratic equation of type ax^2 + bx = 0"
+    ],
+    [
+        "x^2 - 11x + 30 = 0",
+        "The given equation is a quadratic function of type ax^2 + bx + c = 0"
+    ],
+    [
+        "6x^2 - 13x - 48 = 0",
+        "The given equation is a quadratic function of type ax^2 + bx + c = 0"
+    ],
+    [
+        "11x^2 - 13x - 24 = 0",
+        "This function represents a quadratic equation of type ax^2 + bx + c = 0"
+    ],
+    [
+        "3x^2 - 19x - 22 = 0",
+        "This equation represents a quadratic function in the form of ax^2 + bx + c = 0"
+    ],
+    [
+        "5x^2 + 7x - 1 = 0",
+        "This is a quadratic equation of type ax^2 + bx = 0"
+    ],
+    [
+        "x^2 - 9x = 0",
+        "This is an example of quadratic function with the absence of a 'C'- a constant term"
+    ],
+    [
+        "x^2 - x = 0",
+        "The given equation is a quadratic equation with no 'c'"
+    ],
+    [
+        "x^2 + 2x = 0",
+        "This is case of quadratic function with the absence of a 'C'- a constant term"
+    ],
+    [
+        "2x^2 - 64 = 0",
+        "This is a quadratic equation with an absence of linear coefficient 'bx'"
+    ],
+    [
+        "(x - 6)(x + 1) = 0",
+        "This is a quadratic equation in factored form"
+    ],
+    [
+        "(x - 1)(x - 2) = 0",
+        "Quadratic equation in factored form: (x - p)(x - q) = 0, with 'p' and 'q' as constants representing the roots"
+    ],
+    [
+        "(x - 3)(x + 5) = 0",
+        "Factored form of a quadratic equation: (x - p)(x - q) = 0, where 'p' and 'q' are constants representing the roots of the equation"
+    ],
+    [
+        "(x + 4)(x - 10) = 0",
+        "The given equation is a case of quadratic equation in factored form"
+    ],
+    [
+        "(x + 15)(x + 20) = 0",
+        "The provided function is an example of quadratic equation in factored form"
+    ],
+    [
+        "(x + 2)(x + 3) = 0",
+        "This is a quadratic equation in factored form"
+    ],
+    [
+        "(2x - 3)(3x + 5) = 0",
+        "This is a quadratic equation in factored form"
+    ],
+    [
+        "(x - 3)(3x + 7) = 0",
+        "This is a quadratic equation in factored form"
+    ],
+    [
+        "(3x - 5)(5x + 7) = 0",
+        "The given equation is a case of quadratic equation in factored form"
+    ],
+    [
+        "(x + 7)(2x + 1) = ",
+        "The provided function is an example of quadratic equation in factored form"
+    ],
+    [
+        "2x^2 - x - 6 = 0",
+        "This equation represents a quadratic function in the form of ax^2 + bx + c = 0"
+    ],
+    [
+        "-5x^2 + x = 0",
+        "This is a quadratic equation of type ax^2 + bx = 0"
+    ],
+    [
+        "3x^2 + 5x = 0",
+        "This equation represents a case of quadratic equation with no 'c'"
+    ],
+    [
+        "2x^2 + x = 0",
+        "This equation represents a case of quadratic equation with no 'c'"
+    ],
+    [
+        "4x^2 + 6x = 0",
+        "This is a quadratic function example without a constant term: ax^2 + bx = 0."
+    ],
+    [
+        "x^2 - 5x = 0",
+        "This equation represents a case of quadratic equation with no 'c'"
+    ],
+    [
+        "2x^2 - 20x = 0",
+        "This is an example of quadratic function with the absence of a 'C'- a constant term"
+    ],
+    [
+        "3x^2 - 9x = 0",
+        "This is an example of a quadratic function without a constant term 'c'. It is represented in the form of ax^2 + bx = 0, where 'a' and 'b' are constants, and 'x' is the variable"
+    ],
+    [
+        "5x^2 - 10x = 0",
+        "This is a quadratic function example without a constant term: ax^2 + bx = 0."
+    ],
+    [
+        "x^2 - 4x = 0",
+        "Quadratic function example without a constant term: ax^2 + bx = 0."
+    ],
+    [
+        "x^2 - 7x = 0",
+        "This is a quadratic function with no constant term: ax^2 + bx = 0"
+    ],
+    [
+        "x^2 + 2x = 0",
+        "This is a case of quadratic equation with 'c = 0'"
+    ],
+    [
+        "x^2 + 3x = 0",
+        "This is a quadratic equation without a constant term"
+    ],
+    [
+        "x^2 - 16 = 0",
+        "This equation represents a case of quadratic equation with no 'b'"
+    ],
+    [
+        "x^2 - 25 = 0",
+        "This is a quadratic equation in which the linear coefficient 'bx' is absent. The equation is in the form of ax^2 + c = 0, where 'a' and 'c' are constants, and 'x' is the variable"
+    ],
+    [
+        "2x^2 - 8 = 0",
+        "This is quadratic equation with no linear coefficient: ax^2 + c = 0."
+    ],
+    [
+        "x^2 - 36 = 0",
+        "The given function is a quadratic equation with no linear coefficient"
+    ],
+    [
+        "3x^2 - 27 = 0",
+        "This function represents a quadratic equation without 'bx'"
+    ],
+    [
+        "x^2 - 10 = 0",
+        "This is a quadratic equation without the linear term: ax^2 + c = 0"
+    ],
+    [
+        "x^2 - 5 = 0",
+        "This is a quadratic equation where 'b = 0'"
+    ],
+    [
+        "x^2 - 20 = 0",
+        "This is a quadratic equation with an absence of linear coefficient 'bx'"
+    ],
+    [
+        "3x^2 - 10 = 0",
+        "This is a quadratic equation with an absence of linear coefficient 'bx'"
+    ],
+    [
+        "5x^2 - 10 = 0",
+        "This is a quadratic equation lacking the linear coefficient 'bx.' The equation is in the form of ax^2 + c = 0, where 'a' and 'c' are constants, and 'x' represents the variable"
+    ],
+    [
+        "6x^2 - 6 = 0",
+        "This is a quadratic equation of type 'ax^2 + c = 0'"
+    ],
+    [
+		"x^3 + 3x^2 - 4x + 9 = 0",
+		"This is a cubic equation with the form 'ax^3 + bx^2 + cx + d = 0'"
+	],
+    [
+        "x^3 + x^2 - 3x + 1 = 0",
+        "This is a cubic equation of type 'ax^3 + bx^2 + cx + d = 0'"
+    ],
+    [
+        "x^3 + 4x^2 - 29x - 56 = 0",
+        "The given equation is a cubic equation in the form of 'ax^3 + bx^2 + cx + d = 0'"
+    ],
+    [
+        "x^3 + x^2 -21x - 36 = 0",
+        "The function represents a cubic equation of type 'ax^3 + bx^2 + cx + d = 0'"
+    ],
+    [
+        "x^3 + 3x^2 - 20x - 12 = 0",
+        "The provided function is a cubic function of type 'ax^3 + bx^2 + cx + d = 0'"
+    ],
+    [
+        "x^3 - 15x^2 + 25x + 132 = 0",
+        "This is a cubic function in the form of 'ax^3 + bx^2 + cx + d = 0'"
+    ],
+	[
+		"(x + 1 )(x - 2)(x + 3) = 0",
+		"This is a cubic equation in factored form"
+	],
+	[
+		"(x + 3)(x^2 + 3x +6) = 0",
+		"The given expression represents a cubic equation expressed in factored form."
+	],
+    [
+        "(x - 1)(x - 2)(x - 3) = 0",
+        "The provided function is an example of cubic equation in factored form"
+    ],
+    [
+        "x(x + 3)(x + 5) = 0",
+        "This function represents a cubic equation in factored form"
+    ],
+    [
+        "(x + 5)(x + 10)(x - 2) = 0",
+        " This is a cubic equation in factored form: (x - p)(x - q)(x - r) = 0, with 'p,' 'q,' and 'r' as the roots"
+    ],
+	[
+		"3x^3 - 5x^2 + x = 0",
+		"It is simply a general cubic equation in the form of ax^3 + bx^2 + cx + d = 0, where a = 3, b = -5, c = 1, and d = 0."
+	],
+	[ 
+		"x^3 + 7x = 0",
+		"The given cubic equation is known as a 'depressed cubic' because it is missing the term involving the square of x."
+	],
+	[
+		"3x^3 + 7x + 5 = 0",
+		"It is in the standard form of a cubic equation where a = 3, b = 0 (since there is no x^2 term), c = 7, and d = 5."
+	],
+	[
+		"3x^3 - 9 = 0",
+		"The given equation is a specific type of cubic equation known as a 'monic cubic equation'."
+	],
+	[
+		"x^3 - 7x^2 + 6 = 0",
+		"The given equation is a cubic equation, a polynomial equation of degree 3,with the absence of 'c'."
+	],
+	[
+		"-x^3 + x^2 +3x - 8 = 0",
+		"This is a cubic equation, a polynomial equation of degree 3, written in the form: ax^3 + bx^2 + cx + d = 0, where a ≠ 0."
+	],
+	[
+		"(x + 5)(4 - x)x = 0",	
+		"The equation is not initially presented in the standard form of a cubic equation, as it is factored into three expressions."
+	],
+	[
+		"x^3 = 0",
+		"The given equation 'x^3 = 0' is a cubic equation. Specifically, it is a 'monomial cubic equation' because it only contains one term with a degree of 3."
+	],
+	[
+		"4x^3 + x^2 = 0",
+		"The provided equation is a cubic equation presented in its standard form, where the highest power of x is cubed, the coefficient of the x^3 term is 4, the coefficient of the x^2 term is 1, and there is no linear term (x) or constant term."
+	],
+	[
+		"(3 - x)(x^2 + 4)",
+		"The given cubic equation is already fully factored. It represents the product of two binomials, and it cannot be simplified any further using basic algebraic techniques"
+	],
+	[
+		"(x + 3)(x - 2)^2 = 0",
+		"This ís a cubic equation expressed as the product of two binomial expressions: (x + 3) and (x - 2)^2."
+	],
+	[
+		"(x - 1)^3 = 0",
+		"The given equation is a cubic equation in a specific form, (x - a)^3 = 0, where 'a' is a constant, known as a 'depressed cubic' or 'repeated root cubic.' It is a special case of a cubic equation where one root appears three times."
+	],
+    [
+        "y' = x^2 - 1",
+        "The provided equation is a ordinary differential equation"
+    ],
+    [
+        "e^ydy = xdx",
+        "This is a differential equation of type variable-separable"
+    ],
+    [
+        "y^2 + (y')^2 = 4",
+        "The equation given is an example of differential equation with the absence of 'x'"
+    ],
+    [
+        "x = (y')^2 - y' + 2",
+        "This is a differential equation with the absence of 'y'"
+    ],
+    [
+        "(x + 2y)dx - xdy = 0",
+        "This equation represents a homogeneous differential equation"   
+    ],
+    [
+        "y' = y/x + x/y + 1",
+        "This is a case of homogeneous differential equation"
+    ],
+    [
+        "y' - (4/x)*y = 4x^7",
+        "The given equation is a differential equation of type linear"
+    ],
+    [
+        "y' = x - y",
+        "This equation is an example of homogeneous linear differential equation"
+    ],
+    [
+        "(2xy + 3)dy - y^2dx = 0",
+        "This equation represents a linear differential equation"
+    ],
+    [
+        "xy'' + 2y' = 12x^2",
+        "This is a second-order differential equation with the absence of 'y'"
+    ],
+    [
+        "2yy' = (y')^2 + 1",
+        "This equation represents a second-order differential equation with the absence of variable 'x'"
+    ],
+    [
+        "y'' - 3y' + 2y = 0",
+        "The given equation is a linear equation with constant coefficients, which is a special case, second-order differential equation"
+    ],
+    [
+        "y'' - y = (e^x)/(e^x + 1)",
+        "The provided equation belongs to the category of second-order differential equations known as linear equations with constant coefficients"
+    ],
+    [
+        "y'' + 2y' + 2y = 8cosx - sinx",
+        "This equation represents a linear equation with constant coefficients, a type of second-order differential equation"
+    ],
+    [
+        "y'' - 3y' + 2y = e^x + sinx",
+        "The equation given is an example of a second-order differential equation known as a linear equation with constant coefficients"
+    ]
+]
